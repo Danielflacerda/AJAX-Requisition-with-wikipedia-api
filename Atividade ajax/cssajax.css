@@ -1,0 +1,17 @@
+#search{
+    min-height: 25px;
+    width: 300px !important;
+    border-radius: 5px 5px;
+    height: flex;
+}
+#titulo{
+    font-size: 20px;
+    width: 200px;
+}
+#container{
+    display: inline-block !important;
+}
+
+#buscado2{
+    font-size: 25px;
+}
